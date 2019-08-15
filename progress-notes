@@ -1,0 +1,9 @@
+link:
+https://www.django-rest-framework.org/tutorial/1-serialization/
+
+next:
+Using ModelSerializers
+
+Read through serializers again after understanding forms in django. It would help understand the comparison between serializers and forms.
+
+
