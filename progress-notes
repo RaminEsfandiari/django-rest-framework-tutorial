@@ -9,6 +9,7 @@ Covered:
 
 
 next:
-Writing regular Django views using our Serializer
+The root of our API is going to be a view that supports listing all the existing snippets, or creating a new snippet.
+
 
 
